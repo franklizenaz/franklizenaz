@@ -21,15 +21,12 @@
 <p align="center"><img src="https://img.shields.io/badge/-%20-1E3A8A?style=flat-square" height="3" width="60%" /></p>
 <h3 id="about">📌 About</h3>
 <p align="left">
-    Statistical Engineering student at the National University of Engineering (UNI)<br />
-    I am passionate about solving complex problems through data, with a particular ambition: mastering the convergence
-    between <b>Data Science</b> and <b>Data Engineering</b>. I do not see them as separate paths, but as a unified
-    ecosystem that I build meticulously, prioritizing deep understanding before accelerating development.<br />
-    Outside the technical side, I enjoy leading and coordinating teams, something I actively practice within the
-    university community.
+    Statistical Engineering student at the National University of Engineering (UNI), focused on Data Science and Data Analytics.<br />
+    I enjoy transforming data into meaningful insights and developing data-driven solutions to real-world problems. My experience spans <b>statistical modeling, predictive analytics, fraud detection, and geospatial analysis</b>, alongside practical work in data automation, web scraping, and internal web application development.<br />
+    Beyond the technical side, I actively participate in university leadership and student representation, strengthening my communication, collaboration, and problem-solving skills.
 </p>
 <p align="left">
-    <sub><code>&gt; Looking for challenges in research, data engineering, and technological collaboration.</code></sub>
+    <sub><code>&gt; Committed to analytical rigor, continuous learning, and creating value through data.</code></sub>
 </p>
 <p align="center"><img src="https://img.shields.io/badge/-%20-1E3A8A?style=flat-square" height="3" width="60%" /></p>
 <h3 id="now">🔭 Right now</h3>
