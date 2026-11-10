@@ -1,12 +1,12 @@
 <p align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:60A5FA&height=150&section=header&text=Frankli%20Ze%C3%B1a&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Statistical%20Engineering%20%C2%B7%20Data%20Science%20%C2%B7%20Data%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE"
+        src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:60A5FA&height=150&section=header&text=Frankli%20Ze%C3%B1a&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Statistical%20Engineering%20%C2%B7%20Data%20Analytics%20%C2%B7%20Data%20Science&descSize=15&descAlignY=58&descColor=BFDBFE"
         width="100%"
     />
 </p>
 <p align="center">
     <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=60A5FA&center=true&vCenter=true&width=560&lines=Applied+statistics+to+real-world+data;Data+Science+%2B+Data+Engineering;Two+worlds%2C+one+same+goal;Python+%C2%B7+SQL+%C2%B7+R+%C2%B7+Power+BI"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=60A5FA&center=true&vCenter=true&width=560&lines=Applied+statistics+to+real-world+data;Data+Analytics+%C2%B7+Data+Science;Turning+data+into+actionable+insights;Python+%C2%B7+SQL+%C2%B7+R+%C2%B7+Power+BI"
         alt="typing"
     />
 </p>
