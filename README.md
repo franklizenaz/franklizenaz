@@ -47,8 +47,7 @@
     <img
       src="./assets/portfolio-card.gif"
       width="100%"
-      alt="Frankli Zeña - Portfolio"
-      style="border-radius: 12px;"
+      alt="Frankli Zeña - Explore my website"
     >
   </a>
 </p>
