@@ -43,7 +43,7 @@
 <h3 id="portfolio">🚀 Portfolio</h3>
 
 <p align="center">
-  <a href="https://franklizenaz-github-io.pages.dev">
+  <a href="https://franklizenaz.github.io">
     <img
       src="./assets/portfolio-card.gif"
       width="100%"
@@ -117,7 +117,7 @@
   <a href="mailto:zenazenafrankli23@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D131A?style=for-the-badge&logo=gmail&logoColor=9CC9C2&labelColor=123C3D" alt="Email">
   </a>
-  <a href="https://franklizenaz-github-io.pages.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://franklizenaz.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-0D131A?style=for-the-badge&logo=googlechrome&logoColor=9CC9C2&labelColor=123C3D" alt="Website">
     </a>
 </p>
